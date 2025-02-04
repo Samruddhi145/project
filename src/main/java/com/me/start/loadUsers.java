@@ -14,7 +14,7 @@ public class loadUsers {
     
     // this is test commit
     
-    
+    // this is second commit
     public Connection getCon() {
     	 Connection con1=null;
     	 try {
