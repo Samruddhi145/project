@@ -12,6 +12,9 @@ public class loadUsers {
     final String USER="root";
     final String PASS="root";
     
+    // this is test commit
+    
+    
     public Connection getCon() {
     	 Connection con1=null;
     	 try {
